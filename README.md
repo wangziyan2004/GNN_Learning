@@ -228,9 +228,9 @@ H^{(l+1)}
 =
 \sigma
 \left(
-\hat{D}^{-\frac12}
+\hat{D}^{-\frac{1}{2}}
 \hat{A}
-\hat{D}^{-\frac12}
+\hat{D}^{-\frac{1}{2}}
 H^{(l)}
 W^{(l)}
 \right)
