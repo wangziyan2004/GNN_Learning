@@ -221,21 +221,6 @@ Key ideas:
 * Normalization
 * Self-loop
 
-Typical propagation:
-
-$$
-H^{(l+1)}
-=
-\sigma
-\left(
-\hat{D}^{-\frac{1}{2}}
-\hat{A}
-\hat{D}^{-\frac{1}{2}}
-H^{(l)}
-W^{(l)}
-\right)
-$$
-
 ---
 
 ### GraphSAGE
